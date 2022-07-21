@@ -1,0 +1,6 @@
+{
+  "suscription-popup":{
+    "component":"SuscriptionPopup",
+    "render":"client"
+  }
+}
